@@ -1,16 +1,25 @@
-Click on index.html file
+Implemented with Html, javascript, CSS 
 
-when you click start read the instructions
+To run click on index.html file
 
-input the color what system is thinking of and click on okay
+When you click on start read the instructions
+
+Input the color what system is thinking of and click on okay
 
 if the guess is wrong it shows a message 
+
 "your input alphabetically lower than mine"
+then you have to guess the color which is higher than what you have entered previously
 or
+
 "your input alphabetically higher than mine"
+then you have to guess the color which is lower than what you have entered previously
 
 if the guess is right then shows a message 
 "you are right you took so and so no. of guessess"
+
+If u have input unlisted color then shows a messsage
+"i do not recognize that color"
 
 
 
